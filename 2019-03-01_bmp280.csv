@@ -1,0 +1,2 @@
+DateTime, Sensor, Temperature (Celcius), Pressure (hPa)
+2019-03-01 00:00:01 +0800, BMP280, 22.094070, 1018.457642
